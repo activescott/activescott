@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👂 My name is Scott Willeke
-- 🌱 I’m currently learning Go & Ethereum Web3 Development
-- 📫 How to reach me: https://scott.willeke.com
-- ❤️ I love 👨‍👩‍👦‍👦 🏔 👨‍💻
+My name is Scott Willeke
+❤️ I love spending time with family and being outside. I also love to build things - especially out of code and especially with others.
+
+More about me at https://scott.willeke.com/about
 
 ### My GitHub Stats
 
