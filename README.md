@@ -10,9 +10,9 @@
 ![Scott Willeke's GitHub Stats](https://activescott-github-readme-stats.vercel.app/api?username=activescott&show_icons=true&theme=one_dark_pro&bg_color=00000000)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/activescott/activescott/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/activescott/activescott/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/activescott/activescott/raw/output/github-snake.svg" />
 </picture>
 
 ![Scott Willeke's GitHub streak stats](https://streak-stats.demolab.com/?user=activescott)
