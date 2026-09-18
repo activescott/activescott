@@ -10,7 +10,7 @@ I am a hands-on engineering leader and fractional CTO. I architect the system an
 - [Ramblefeed](https://ramblefeed.com): personal notes and bookmarks, tagged and searchable, kept private or published as a public feed.
 - [GPU Poet](https://gpupoet.com): a free price and performance comparison that finds you the best GPU for your money.
 - [Tinkerbell](https://tinkerbellbot.com): privacy-focused web search and content extraction for AI agents, as an MCP server and a REST API.
-- [lessmsi](https://lessmsi.activescott.com): views and extracts the contents of a Windows Installer (.msi) file. At 1,760 stars, the most widely used thing I have built.
+- [lessmsi](https://lessmsi.activescott.com): views and extracts the contents of a Windows Installer (.msi) file. At 1,760 stars, my most widely used open source project.
 - [@activescott/auth](https://www.npmjs.com/package/@activescott/auth): a deliberately small, framework-agnostic auth library with magic links, one-time codes, and passkeys, and no third-party identity provider.
 - [typescript-openai-realtime-api](https://github.com/activescott/typescript-openai-realtime-api): a TypeScript client and working browser example for the OpenAI Realtime API over WebRTC, with the conversation state and audio streams managed for you.
 
