@@ -4,7 +4,7 @@ My recent AI work includes real-time analysis of emergency call audio for a mark
 
 I am a hands-on engineering leader and fractional CTO. I architect the system and write the production code, and I can also run the org, mentor managers and engineers, and present to the board. More at [Hire a Fractional CTO](https://scott.willeke.com/hire-fractional-cto).
 
-I've shipped features used by millions at Amazon, Smartsheet, Daptiv, Glide and Vouched.
+I've shipped features used by millions at Amazon, Smartsheet, Planview, Glide and Vouched.
 
 ### What I've built
 
