@@ -1,8 +1,10 @@
 I help B2B companies build, ship, and operate cloud software and AI systems, from "we have an idea" through production systems running mission-critical workloads.
 
-My recent AI work includes real-time analysis of emergency call audio that flags what dispatchers and responders need to know, [Tinkerbell](https://tinkerbellbot.com)'s research agent built on MCP servers and measured with evals and benchmarks, and agent pipelines with skills and subagents that keep [GPU Poet](https://gpupoet.com)'s data current.
+My recent AI work includes real-time analysis of emergency call audio for a market leader in emergency response technology, flagging what dispatchers and responders need to know, [Tinkerbell](https://tinkerbellbot.com)'s research agent built on MCP servers and measured with evals and benchmarks, and agent pipelines with skills and subagents that keep [GPU Poet](https://gpupoet.com)'s data current.
 
 I am a hands-on engineering leader and fractional CTO. I architect the system and write the production code, and I can also run the org, mentor managers and engineers, and present to the board. More at [Hire a Fractional CTO](https://scott.willeke.com/hire-fractional-cto).
+
+I've shipped features used by millions at Amazon, Smartsheet, Daptiv, Glide and Vouched.
 
 ### What I've built
 
