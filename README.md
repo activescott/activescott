@@ -1,4 +1,6 @@
-I help B2B companies build, ship, and operate cloud software, from "we have an idea" through production systems running mission-critical workloads.
+I help B2B companies build, ship, and operate cloud software and AI systems, from "we have an idea" through production systems running mission-critical workloads.
+
+My recent AI work includes real-time analysis of emergency call audio that flags what dispatchers and responders need to know, [Tinkerbell](https://tinkerbellbot.com)'s research agent built on MCP servers and measured with evals and benchmarks, and agent pipelines with skills and subagents that keep [GPU Poet](https://gpupoet.com)'s data current.
 
 I am a hands-on engineering leader and fractional CTO. I architect the system and write the production code, and I can also run the org, mentor managers and engineers, and present to the board. More at [Hire a Fractional CTO](https://scott.willeke.com/hire-fractional-cto).
 
@@ -10,6 +12,7 @@ I am a hands-on engineering leader and fractional CTO. I architect the system an
 - [Tinkerbell](https://tinkerbellbot.com): privacy-focused web search and content extraction for AI agents, as an MCP server and a REST API.
 - [lessmsi](https://lessmsi.activescott.com): views and extracts the contents of a Windows Installer (.msi) file. At 1,760 stars, the most widely used thing I have built.
 - [@activescott/auth](https://www.npmjs.com/package/@activescott/auth): a deliberately small, framework-agnostic auth library with magic links, one-time codes, and passkeys, and no third-party identity provider.
+- [typescript-openai-realtime-api](https://github.com/activescott/typescript-openai-realtime-api): a TypeScript client and working browser example for the OpenAI Realtime API over WebRTC, with the conversation state and audio streams managed for you.
 
 I live near Seattle. I like spending time with family and being outside, and I love to build things out of code, especially with others.
 
