@@ -1,28 +1,21 @@
-### Hi there 👋
+I help B2B companies build, ship, and operate cloud software and AI systems, from "we have an idea" through production systems running mission-critical workloads.
 
-My name is Scott Willeke
-❤️ I love spending time with family and being outside. I also love to build things - especially out of code and especially with others.
+My recent AI work includes real-time analysis of emergency call audio that flags what dispatchers and responders need to know, [Tinkerbell](https://tinkerbellbot.com)'s research agent built on MCP servers and measured with evals and benchmarks, and agent pipelines with skills and subagents that keep [GPU Poet](https://gpupoet.com)'s data current.
 
-More about me at https://scott.willeke.com/about
+I am a hands-on engineering leader and fractional CTO. I architect the system and write the production code, and I can also run the org, mentor managers and engineers, and present to the board. More at [Hire a Fractional CTO](https://scott.willeke.com/hire-fractional-cto).
 
-### My GitHub Stats
+### What I've built
 
-![Scott Willeke's GitHub Stats](https://activescott-github-readme-stats.vercel.app/api?username=activescott&show_icons=true&theme=one_dark_pro&bg_color=00000000)
+- [Fernfiles](https://fernfiles.com): a file store that versions every change so you cannot lose anything, and keeps your notes as plain markdown with no lock-in.
+- [Ramblefeed](https://ramblefeed.com): personal notes and bookmarks, tagged and searchable, kept private or published as a public feed.
+- [GPU Poet](https://gpupoet.com): a free price and performance comparison that finds you the best GPU for your money.
+- [Tinkerbell](https://tinkerbellbot.com): privacy-focused web search and content extraction for AI agents, as an MCP server and a REST API.
+- [lessmsi](https://lessmsi.activescott.com): views and extracts the contents of a Windows Installer (.msi) file. At 1,760 stars, the most widely used thing I have built.
+- [@activescott/auth](https://www.npmjs.com/package/@activescott/auth): a deliberately small, framework-agnostic auth library with magic links, one-time codes, and passkeys, and no third-party identity provider.
+- [typescript-openai-realtime-api](https://github.com/activescott/typescript-openai-realtime-api): a TypeScript client and working browser example for the OpenAI Realtime API over WebRTC, with the conversation state and audio streams managed for you.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/activescott/activescott/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/activescott/activescott/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/activescott/activescott/raw/output/github-snake.svg" />
-</picture>
+I live near Seattle. I like spending time with family and being outside, and I love to build things out of code, especially with others.
 
-![Scott Willeke's GitHub streak stats](https://streak-stats.demolab.com/?user=activescott)
+### Get in touch
 
-![Scott Willeke's Top Langs](https://activescott-github-readme-stats.vercel.app/api/top-langs/?username=activescott&layout=compact)
-
-<!--
-Useful references:
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://github.com/arturssmirnovs/github-profile-readme-generator
-https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file
-https://github.com/Platane/snk
--->
+[Book time with me](https://scott.willeke.com/cal), or read more at [Hire a Fractional CTO](https://scott.willeke.com/hire-fractional-cto).
